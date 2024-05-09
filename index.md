@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: My blog
 ---
-
+## About me
+I'm a student in Deusto University
